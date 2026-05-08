@@ -6,12 +6,4 @@ __Federico García Caneda__
 ## Foto personal
 ![Foto personal][rutaimagenpersonal]
 
-
-
-
-
-
-
-
-
-[rutaimagenpersonal]: img\Fotopersonal.jpeg "¡Que lindo!"
+[rutaimagenpersonal]: img/Fotopersonal.jpeg "¡Que lindo!"
