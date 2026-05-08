@@ -1,7 +1,7 @@
 # tp-0-presentacion-Federico-Garcia-Caneda
 
 ### Nombre y apellido
-__Federico García Caneda__
+_Federico García Caneda_
 
 ---
 
@@ -11,12 +11,12 @@ __Federico García Caneda__
 ---
 
 ### Legajo
-__233.896-8__
+_233.896-8_
 
 ---
 
-Estoy en mi segundo año de la [facultad][utn] y me esta gustando la materia.
-Cada tanto cocino __(me sale todo mal)__, me gusta entrenar, el futbol e ir a la [cancha][monumental], soy de **River**.
+Estoy en mi segundo año de la [facultad][utn] y me esta gustando la materia.  
+Cada tanto cocino _(me sale todo mal)_, me gusta entrenar, el futbol e ir a la [cancha][monumental], soy de __River__.
 
 
 [monumental]: https://www.cariverplate.com.ar/el-monumental
