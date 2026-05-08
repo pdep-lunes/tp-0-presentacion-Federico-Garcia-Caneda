@@ -14,4 +14,4 @@ __Federico García Caneda__
 
 
 
-[rutaimagenpersonal]: img/Fotopersonal.jpeg "¡Que lindo!"
+[rutaimagenpersonal]: img\Fotopersonal.jpeg "¡Que lindo!"
